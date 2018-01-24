@@ -2,7 +2,7 @@
 Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, mainly so I don’t need to start from rock bottom on the PWK lab. Below is a list of machines I rooted, most of them are similar to what you’ll be facing in the lab. I’ve written walkthroughs for a few of them as well, but try harder first ;)
 
 # Linux
-##Beginner friendly
+## Beginner friendly
 + Kioptrix: Level 1 (#1) [Done][Walkthrough?]
 + Kioptrix: Level 1.1 (#2)
 + Kioptrix: Level 1.2 (#3)
@@ -11,7 +11,7 @@ Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, 
 + Stapler: 1
 + PwnLab: init [Done] [Walkthrough]
 + Tr0ll [Done] [Walkthrough done]
-##Intermediate
+## Intermediate
 + Kioptrix: 2014 [Done]
 + Brainpan: 1
 + Mr-Robot: 1
