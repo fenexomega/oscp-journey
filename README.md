@@ -7,7 +7,7 @@ Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, 
 + Kioptrix: Level 1.1 (#2)
 + Kioptrix: Level 1.2 (#3)
 + Kioptrix: Level 1.3 (#4)
-+ FristiLeaks: 1.3 https://www.vulnhub.com/entry/fristileaks-13,133/
++ FristiLeaks: 1.3 [Done][Walkthrough?] [link](https://www.vulnhub.com/entry/fristileaks-13,133/)
 + Stapler: 1
 + PwnLab: init [Done] [Walkthrough]
 + Tr0ll [Done] [Walkthrough done]
