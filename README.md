@@ -13,6 +13,7 @@ Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, 
 + Tr0ll [Done] [Walkthrough done]
 ## Intermediate
 + Kioptrix: 2014 [Done]
++ SkyTower: 1 [Done][Walkthrough?]
 + Brainpan: 1
 + Mr-Robot: 1
 + HackLAB: Vulnix
@@ -21,5 +22,4 @@ Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, 
 + SickOs: 1.2
 + /dev/random: scream
 + pWnOS: 2.0
-+ SkyTower: 1
 + IMF
